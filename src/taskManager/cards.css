@@ -1,0 +1,22 @@
+
+.card {
+    width: 200px;
+    text-align: left;
+    background-color: aqua;
+    padding: 12px;
+    margin: 8px;
+    position: relative;
+}
+.card .title{
+    font-weight: bold;
+    /* padding-left: 0; */
+}
+.card .desc{
+    padding: 8px 0;
+}
+.card .cross{
+    position: absolute;
+    top: 5px;
+    right: 8px;
+    cursor: pointer;
+}
