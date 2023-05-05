@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://github.com/jpjitendrapal/task-manager/blob/main/task-manager.png?raw=true)
+![Task Manager](https://github.com/jpjitendrapal/task-manager/blob/main/public/task-manager.png?raw=true)
 
 ## Available Scripts
 
