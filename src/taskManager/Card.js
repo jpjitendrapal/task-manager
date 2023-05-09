@@ -9,7 +9,7 @@ export default function Card({card, task}){
 
     const titleRef = useRef();
     const descRef = useRef();
-
+    // console.log(card);
     const changeHandler = (ev)=>{
         updateCard(task.id,card.id, ev.target.value, card.description);
         setEditing(false);
